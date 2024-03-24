@@ -4,9 +4,6 @@
 PascalVOC (VOCDetection from torchvision)
 
 ## TODO
-- [ ] Preprocess Data
-- [ ] Dataloaders
-- [ ] Train and Validation functions
-- [ ] Object Detection Model
-- [ ] Loss Curves
-- [ ] Modularize the code
+- [x] Preprocess Data
+- [x] Object Detection Model
+- [x] Loss Curves (Tensorboard)
